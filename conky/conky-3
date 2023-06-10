@@ -1,0 +1,57 @@
+conky.config = {
+    alignment = 'middle_right',
+    background = false,
+    border_width = 1,
+    cpu_avg_samples = 2,
+    default_color = 'white',
+    default_outline_color = 'white',
+    default_shade_color = 'white',
+    double_buffer = true,
+    draw_borders = false,
+    draw_graph_borders = true,
+    draw_outline = false,
+    draw_shades = false,
+    extra_newline = false,
+    font = 'scientifica:size=15',
+    gap_x = 50,
+    gap_y = 0,
+    minimum_height = 0,
+    minimum_width = 0,
+    net_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = false,
+    out_to_ncurses = false,
+    out_to_stderr = false,
+    out_to_x = true,
+    own_window = true,
+    own_window_argb_value = 0,
+    own_window_argb_visual = true,
+    own_window_transparent = false,
+    own_window_class = 'Conky',
+    own_window_type = 'desktop',
+    show_graph_range = false,
+    show_graph_scale = false,
+    stippled_borders = 0,
+    update_interval = 1.0,
+    uppercase = false,
+    use_spacer = 'none',
+    use_xft = true,
+}
+
+conky.text = [[
+${font scientifica:size=32}$alignc${time %a %Y-%m-%d (%j) %H:%M:%S}
+$hr${font scientifica:size=12}
+${execpi 60 cal -n 3 --monday | sed s/"$(date +%_d)"'\b'/'${color red}'"$(date +%_d)"'$color'/}
+$hr
+${exec tidy-viewer -n 1000 $HOME/sync/calendar.csv | grep -i -A 15 "($(date +%m))"}
+$hr
+| Date                    | Subject & Info           | Time                      |
+|-------------------------|--------------------------|---------------------------|
+| Mon, 12/06              | Maths Paper 2 Exam       | 09:30 - 12:00             |
+| Tue, 13/06              | Biology Exam             | 14:00 - 17:00             |
+| Wed, 14/06              | French Exam              | Written: 09:30 - 12:00    |
+|                         |                          | Listening: 12:10 - 12:50  |
+| Thu, 15/06              | Business Exam            | 09:30 - 12:30             |
+| Thu, 22/06              | Music Exam               | Listening: 13:30 - 15:00  |
+|                         |                          | Composing: 15:15 - 16:45  |
+]]

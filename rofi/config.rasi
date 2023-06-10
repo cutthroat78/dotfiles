@@ -1,0 +1,9 @@
+@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+configuration {
+   filebrowser {
+      directory: "/home/cutthroat/" ;
+      sorting-method: "name";
+      directories-first: true;
+   }
+}

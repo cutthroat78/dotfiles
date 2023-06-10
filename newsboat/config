@@ -1,0 +1,67 @@
+color background          color238 default
+color listnormal          color238 default
+color listfocus           white default bold
+color listnormal_unread   color8 default
+color listfocus_unread    white default bold
+color info                cyan default bold
+color article             white default
+
+bookmark-cmd "~/work/unraid/dotfiles/.newsboat/bookmark.sh"
+bookmark-autopilot true
+
+show-title-bar no
+show-keymap-hint no
+
+unbind-key -a
+bind-key ? help
+bind-key / open-search
+bind-key : cmdline
+bind-key ; goto-title
+bind-key t set-tag
+bind-key 1 one
+bind-key 2 two
+bind-key 3 three
+bind-key 4 four
+bind-key 5 five
+bind-key 6 six
+bind-key 7 seven
+bind-key 8 eight
+bind-key 9 nine
+bind-key 0 zero
+
+bind-key Q hard-quit
+bind-key r toggle-show-read-feeds
+bind-key a bookmark
+bind-key s macro-prefix
+bind-key d delete-article
+bind-key D delete-all-articles
+bind-key g  reload
+bind-key G  reload-all
+bind-key ^G  reload-urls
+bind-key f toggle-article-read
+bind-key F mark-feed-read
+
+bind-key h quit
+bind-key j down
+bind-key k up
+bind-key l open
+
+bind-key H home
+bind-key J pagedown
+bind-key K pageup
+bind-key L end
+
+bind-key ^J prev
+bind-key ^K next
+
+browser "kitty --detach w3m"
+macro s set browser "mpv --ytdl-format=\"bestvideo[height<=1080][vcodec!=vp9]+bestaudio/best\" %u &"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+macro S set browser "alacritty -e mpv --no-video"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+macro w set browser "alacritty -e youtube-dl"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+
+macro a set browser "alacritty -e w3m"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+macro A set browser "surf %u &"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+macro q set browser "firefox %u &"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+
+macro d set browser "echo %u | xclip -sel clip"; open-in-browser-noninteractively; set browser "kitty --detach w3m"
+macro f set browser "alacritty --hold -e \"youtube-dl --write-thumbnail \"%u\" --skip-download -o ~/.thumb && kitty icat ~/.thumb.* && rm ~/.thumb.*\""; open-in-browser-noninteractively; set browser "kitty --detach w3m"

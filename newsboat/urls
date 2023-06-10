@@ -1,0 +1,716 @@
+"query:Unread & Unwatched:unread = \"yes\""
+"query:Unread:tags # \"RSS\""
+"query:Unwatched:tags # \"YouTube\""
+
+"query:-News-:tags # \"News\""
+
+--Ireland--
+https://www.independent.ie/rss Ireland RSS News
+
+--Europe--
+https://www.euronews.com/rss?format=mrss&level=theme&name=news Europe RSS News
+
+--IT--
+https://news.ycombinator.com/rss IT RSS News
+https://www.theregister.com/headlines.atom "Linux & FLOSS" IT RSS News
+
+"---Linux & FLOSS---"
+https://itsfoss.com/feed "Linux & FLOSS" IT RSS News
+https://hackaday.com/feed "Linux & FLOSS" IT RSS News
+https://www.linux-magazine.com/rss/feed/lmi_news "Linux & FLOSS" IT RSS News
+https://www.omglinux.com/rss "Linux & FLOSS" IT RSS News
+https://fosstodon.org/@librelingo.rss Mastodon IT "Linux & FLOSS" News
+https://www.reddit.com/r/commandline.rss Reddit IT "Linux & FLOSS" News
+
+"--Language & Linguistics--"
+https://blog.duolingo.com/rss "Language & Linguistics" RSS News
+
+--LGBT--
+https://www.teni.ie/feed LGBT Ireland RSS News
+https://www.belongto.org/feed LGBT Ireland RSS News
+https://gcn.ie/feed LGBT Ireland RSS News
+
+"--Native American--"
+https://www.reddit.com/r/IndianCountry.rss Reddit "Native American" News
+
+--Other--
+https://www.meetup.com/Dublin-Linux-User-Group/events/rss RSS IT Events "Linux & FLOSS" News
+
+"-Reading-"
+
+--Blogs--
+https://log.pyratebeard.net/rss.xml RSS IT "Linux & FLOSS"
+https://www.jeffgeerling.com/blog.xml "Linux & FLOSS" IT RSS
+
+--Ireland--
+https://www.thejournal.ie/feed Ireland RSS
+https://www.joe.ie/feed Ireland RSS
+http://feeds.guardian.co.uk/theguardian/world/ireland/rss Ireland RSS
+https://www.nova.ie/rss Ireland RSS
+
+--LGBT--
+https://dublinpride.ie/rss LGBT Ireland RSS
+https://lgbt.ie/feed LGBT Ireland RSS
+https://www.pinknews.co.uk/feed LGBT RSS
+http://globalvoicesonline.org/-/topics/lgbt/feed LGBT RSS
+
+"--IT--"
+https://www.maketecheasier.com/rss IT RSS
+https://www.howtogeek.com/feed IT RSS
+https://www.pcgamer.com/uk/rss IT Gaming RSS
+
+"---Linux & FLOSS---"
+https://www.tecmint.com/feed "Linux & FLOSS" IT RSS
+https://www.phoronix.com/rss.php "Linux & FLOSS" IT RSS
+https://www.funkyspacemonkey.com/feed "Linux & FLOSS" IT RSS
+http://www.linuxjournal.com/node/feed "Linux & FLOSS" IT RSS
+https://www.linuxtoday.com/rss "Linux & FLOSS" IT RSS
+https://opensource.com/feed "Linux & FLOSS" IT RSS
+https://www.digitalocean.com/community/tutorials/feed "Linux & FLOSS" IT RSS
+https://ostechnix.com/rss "Linux & FLOSS" IT RSS
+https://linuxhint.com/rss "Linux & FLOSS" IT RSS
+https://tecadmin.net/rss "Linux & FLOSS" IT RSS
+https://code.visualstudio.com/feed.xml "Linux & FLOSS" IT RSS
+
+https://www.pine64.org/feed "Linux & FLOSS" Pine64 IT RSS
+
+"---Raspberry Pi---"
+https://pimylifeup.com/feed "Raspberry Pi" IT RSS
+https://www.raspberrypi.com/news/feed "Raspberry Pi" IT RSS
+https://magpi.raspberrypi.com/feed "Raspberry Pi" IT RSS
+
+---CyberSecurity---
+https://feeds.feedburner.com/TheHackersNews CyberSecurity IT RSS
+
+"--Language & Linguistics--"
+https://www.ethnologue.com/ethnoblog/blog.xml "Language & Linguistics" RSS
+https://www.ethnologue.com/language-of-the-day/feed "Language & Linguistics" RSS
+https://duoplanet.com/feed "Language & Linguistics" RSS
+https://www.clozemaster.com/blog/rss "Language & Linguistics" RSS
+https://www.omniglot.com/bloggle/?feed=rss2 "Language & Linguistics" RSS
+https://blog.keyman.com/rss "Language & Linguistics" RSS
+https://escholarship.org/rss/unit/ucpress_ucpl "~University of California Publications in Linguistics Recent Works" "Language & Linguistics" "Colleges & Universities" RSS
+http://paradisec.org.au/blog/feed "Language & Linguistics" RSS
+http://paradisec.org.au/blog/comments/feed "Language & Linguistics" RSS
+
+-Learning-
+
+"--Native American--"
+---Oneida---
+https://oneida.on.ca/rss "Native American" RSS
+https://www.youtube.com/feeds/videos.xml?channel_id=UCr70JTUgT423i7Hy1dq1hxA YouTube "Language & Linguistics" Oneida #TheOLCC
+https://www.youtube.com/feeds/videos.xml?channel_id=UCflkM4G6VWHjdRWyga8bsVg YouTube "Language & Linguistics" Oneida #Oneida Nest
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDUEsgzMJvOnINonnS6MmTw YouTube "Language & Linguistics" Oneida #Oneida Digital Media
+
+--French--
+https://www.france24.com/fr/rss "~France24" French "Language & Linguistics" RSS
+https://www.tvanouvelles.ca/rss French "Language & Linguistics" RSS
+https://fr.euronews.com/rss?format=mrss&level=theme&name=news French "Language & Linguistics" Europe RSS
+
+--Medical--
+https://psych2go.net/rss Medical RSS
+
+--Other--
+https://fridaysforfuture.org/feed "Climate Crysis" Other RSS
+https://sm2.gg/rss Gaming Other RSS
+https://xkcd.com/rss.xml "Web Comics" RSS
+
+-Transgenderism-
+https://www.reddit.com/r/trans.rss Reddit Transgenderism
+https://www.reddit.com/r/MtF.rss Reddit Transgenderism
+https://www.reddit.com/r/transpassing.rss Reddit Transgenderism
+https://www.reddit.com/r/asktransgender.rss Reddit Transgenderism
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZHRPkcryTnlZFc-Ss5TiVw YouTube Transgenderism Animation #Phoenix Animations
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHSIA2JRC5PWvUX4Sl8OrcA YouTube Transgenderism #Jammidodger
+"--Trans Voice--"
+https://www.reddit.com/r/transvoice.rss Reddit Transgenderism "Trans Voice"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrI5U4Nn_45cLXm-m0x8vyg YouTube Transgenderism "Trans Voice" #Your Lessons Now
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBYlEnfAUbrYSwF0VujcmHA YouTube Transgenderism "Trans Voice" #TransVoiceLessons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCarmJ1qlgQpEn57oMqMZJiQ YouTube Transgenderism "Trans Voice" #Trans Vocal Training
+
+--Reddit--
+https://www.reddit.com/user/BirdyHelper.rss Reddit "Friends & Family"
+https://www.reddit.com/r/Anki.rss Reddit
+"---Linux & FLOSS---"
+https://www.reddit.com/r/linux.rss Reddit IT "Linux & FLOSS"
+https://www.reddit.com/r/unixporn.rss Reddit IT "Linux & FLOSS"
+"---Language & Linguistics---"
+https://www.reddit.com/r/languagelearning.rss Reddit "Language & Linguistics"
+https://www.reddit.com/r/XefsCompleteLangs.rss Reddit "Language & Linguistics"
+https://www.reddit.com/user/Xefjord.rss Reddit "Language & Linguistics"
+https://www.reddit.com/r/tokipona.rss Reddit "Language & Linguistics" "toki pona"
+https://www.reddit.com/r/Esperanto.rss Reddit "Language & Linguistics" Esperanto
+
+-Entertainment-
+
+--IT--
+https://www.reddit.com/r/iiiiiiitttttttttttt.rss Reddit IT
+
+--YouTube--
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNMyoMaXJZITZaRKCz7G23Q YouTube #Peter Knetter
+"--That Weasel--"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8dwgs8elSabLnqC_EzIUbw YouTube "That Weasel" #That Weasel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHCG5nhS8cXQRSJQKUQzIBw YouTube "That Weasel" #CFW GAMING
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGhc4EhC3hAeqeMGh09_tCw YouTube "That Weasel" #Weasel VA
+
+--Driving--
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7JXBY62K_gL297TcBvaojQ YouTube Driving #Dane Tyghe
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdZklq8ZUwbwQBLPpIzcz1g YouTube Driving #Conquer Driving
+
+--IT--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA YouTube IT #Fireship
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpGCuiAOFIDurA-hU_p2E0w YouTube IT Gaming #Tech Rules
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWoSKWs8h6lFdiEDAjuIfpA YouTube IT Gaming #Displaced Gamers
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q YouTube IT #Code Bullet
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw YouTube IT Comedy #Michael Reeves
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQqTg6LMpBiXx9ulRfjapsg YouTube IT Comedy #Michael Reee2
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ YouTube IT #NetworkChuck
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPvRdfUooqCf0zPOYvbBzVA YouTube IT #mryeester
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjFaPUcJU1vwk193mnW_w1w YouTube IT Gaming #Modern Vintage Gamer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoLccjs6jbHa4soeYDgbKTg YouTube IT #Modern Classic
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ YouTube IT #LGR
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXnNibvR_YIdyPs8PZIBoEw YouTube IT #Cathode Ray Dude [CRD]
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvcRA2Hva1lULVf4GCouH8w YouTube IT #Dawid Does Tech Stuff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA YouTube IT #ExplainingComputers
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZSlfzadjnw7G419c_OJ9eg YouTube IT #Mrwhosetheboss Shorts
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpPmrbnoicvhkGRiYLoi8WA YouTube IT #Veraxity
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6r2CYsKIDjG0Z-VBn4ahVA YouTube IT #JSON SEC
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ YouTube IT #freeCodeCamp.org
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs5Y5_7XK8HLDX0SLNwkd3w YouTube IT #Visual Studio Code
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPUe9uOcp1UMpVi6Vll60Jw YouTube IT Gaming #Garbaj
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcabW7890RKJzL968QWEykA YouTube IT #CS50
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7xSut0GulydJv5bMKm1w6A YouTube IT #Danny Murray
+https://www.youtube.com/feeds/videos.xml?channel_id=UCt_0qjzmxopG3leL3OuvlFQ YouTube IT #NationSquid
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEDkO7wshcDZ7UZo17rPkzQ YouTube IT #mayuko
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQP4qSCj1eHMHisDDR4iPzw YouTube IT Gaming #GamesWithGabe
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtxCXg-UvSnTKPOzLH4wJaQ YouTube IT #Coding Tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA YouTube IT #Computerphile
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjWBEvwq3iNLXEdrGTR5S9A YouTube IT #Lucas VRTech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEaEuLUvy4Y1DqpxiDvnxeQ YouTube IT #FlyTech Videos
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4JX40jDee_tINbkjycV4Sg YouTube IT #Tech With Tim
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGsgaBYSAcia5op2Umer-9g YouTube IT #Code Maven
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA YouTube IT #ElectroBOOM
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA YouTube IT #Programming with Mosh
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTkhZGtANjMzXpgDUE7HLUA YouTube IT #Hardware Savvy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQkd05iAYed2-LOmhjzDG6g YouTube IT Gaming #LowSpecGamer
+"query:---Linus Tech Tips---:tags # \"Linus Tech Tips\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw YouTube IT "Linus Tech Tips" #Linus Tech Tips
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA YouTube IT "Linus Tech Tips" News #TechLinked
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q YouTube IT "Linus Tech Tips" #Techquickie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg YouTube IT "Linus Tech Tips" #ShortCircuit
+"---Linux & FLOSS---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA YouTube IT "Linux & FLOSS" News #Brodie Robertson
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA YouTube IT "Linux & FLOSS" #Mental Outlaw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHkwlexIsoJVa5g_G9g18GA YouTube IT "Linux & FLOSS" #Johannes 4GNU_Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCv1Kcz-CuGM6mxzL3B1_Eiw YouTube IT "Linux & FLOSS" #Gardiner Bryant
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWpoyqSBIXtylRLFgP3PFfg YouTube IT "Linux & FLOSS" #Tuxfoo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg YouTube IT "Linux & FLOSS" #Techlore
+https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw YouTube IT "Linux & FLOSS" #BugsWriter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg YouTube IT "Linux & FLOSS" #DistroTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA YouTube IT "Linux & FLOSS" #Luke Smith
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmGcm7dhEjS9CIOsOOv8y6w YouTube IT "Linux & FLOSS" #PizzaLovingNerd
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw YouTube IT "Linux & FLOSS" Comedy #SAMTIME
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoryWpk4QVYKFCJul9KBdyw YouTube IT "Linux & FLOSS" #Switched to Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw YouTube IT "Linux & FLOSS" #The Linux Experiment
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNwGa76xVVwdEVToRZBIUIg YouTube IT "Linux & FLOSS" #DenshiVideo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZDfnUn74N0WeAPvMqTOrtA YouTube IT "Linux & FLOSS" #Spaceinvader One
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB2TRuFjwgWdbHEaGHP1kfw YouTube IT "Linux & FLOSS" #Byte My Bits
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7aW7chIafJG6ECYAd3N5uQ YouTube IT "Linux & FLOSS" #IBRACORP
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0NErq0RhP51iXx64ZmyVfg YouTube IT "Linux & FLOSS" #Bret Fisher Docker and DevOps
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg YouTube IT "Linux & FLOSS" #Jeff Geerling
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6A_0Jm21SIvpdKyg9Gmxw YouTube IT "Linux & FLOSS" #PINE64
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFajCKBeNRW16Xb5mJvrCvw YouTube IT "Linux & FLOSS" #Kernotex
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO7MWhBJmlp4L1FON75pK4g YouTube IT "Linux & Floss" #Loralighte
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmcAOvuROtj8NRumczd_E5Q YouTube IT "Linux & FLOSS" #Moku Ken
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZcZAeq7QcPh_SwtKyAZQPg YouTube IT "Linux & FLOSS" #Open Source Slayer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwFpzG5MK5Shg_ncAhrgr9g YouTube IT "Linux & FLOSS" #Awesome Open Source
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd4XwUn2Lure2NHHjukoCwA YouTube IT "Linux & FLOSS" #Linux For Everyone
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ YouTube IT "Linux & FLOSS" #Chris Titus Tech
+
+---CyberSecurity---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLDnEn-TxejaDB8qm2AUhHQ YouTube IT CyberSecurity #Marcus Hutchins
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ YouTube IT CyberSecurity #Hak5
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB0KsBKlEcEUaNfd5ylQvCQ YouTube IT CyberSecurity #Source Meets Sink
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgTNupxATBfWmfehv21ym-g YouTube IT Cybersecurity #Null Byte
+
+--Learning--
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w YouTube Learning #CGP Grey
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRcgy6GzDeccI7dkbbBna3Q YouTube Learning #LEMMiNO
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw YouTube Learning Comedy #Internet Historian
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-7nELDbJEPF3muAzSeT74g YouTube Learning IT #Disrupt
+https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ YouTube Learning Gaming #hbomberguy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6o36XL0CpYb6U5dNBiXHQ YouTube Learning #Shaun
+https://www.youtube.com/feeds/videos.xml?channel_id=UCecF2icZlEIJ__9XS6woPGw YouTube Learning #Zoe Bee
+https://www.youtube.com/feeds/videos.xml?channel_id=UCteF4--g6cL7jXbmujpRfeQ YouTube Learning #GabeSweats
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxLYtICsUCWdr1YPrj5DtwA YouTube Learning #Ordinary Things
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w YouTube Learning #Fredrik Knudsen
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ YouTube Learning #Pursuit of Wonder
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A YouTube Learning #Tom Scott
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqVEHtQoXHmUCfJ-9smpTSg YouTube Learning #Answer in Progress
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpa-Zb0ZcQjTCPP1Dx_1M8Q YouTube Learning #LegalEagle
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKmmERguliWTynG9OIoDhDw YouTube Learning #Law By Mike
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg YouTube Learning #PolyMatter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA YouTube Learning #TED-Ed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW39zufHfsuGgpLviKh297Q YouTube Learning #DW Documentary
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq4qiifOaFGW3a2oljSfxUg YouTube Learning #Half-Asleep Chris
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJsUvAqDzczYv2UpFmu4PcA YouTube Learning #Nas Daily
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTyvyVpWyspz8-anuyXUreA YouTube Learning #Scott Prop and Roll
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw YouTube Learning #Be Smart
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1jyFTfku6mjXIXL_HwRtlA YouTube Learning #Eddache
+https://www.youtube.com/feeds/videos.xml?channel_id=UCz4tqgP5N5Wgd4PE7Hq_xyw YouTube Learning #Zimbax
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUK1Fz1o94JA1wI6I7yLT2Q YouTube Learning Animation #Matt Rittman
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg YouTube Learning #Big Think
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpExuV8qJMfCaSQNL1YG6bQ YouTube Learning #Better Than Yesterday
+https://www.youtube.com/feeds/videos.xml?channel_id=UConJDkGk921yT9hISzFqpzw YouTube Learning #Freethink
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdk0x2XlLQZMzj7XrgJNdEw YouTube Learning #Brain-Friendly Thinking
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w YouTube Learning #MinuteEarth
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYQfECqGcsrpjANI7ZgFNUQ YouTube Learning #Julian O'Shea
+https://www.youtube.com/feeds/videos.xml?channel_id=UC57gLBfdhN1zWMLmiW2Ya6Q YouTube Learning #Think That Through
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkJEpR7JmS36tajD34Gp4VA YouTube Learning #Psych2Go
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHl2NWvXxd8KcNP1lmc5OuQ YouTube Learning #Psych2Go Education
+https://www.youtube.com/feeds/videos.xml?channel_id=UCU3oAyhHDXjgbxazqOEG2UA YouTube Learning #blameitonjorge
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9PIn6-XuRKZ5HmYeu46AIw YouTube Learning #Barely Sociable
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHoRvL_JN1_pqRmMlgfUVsQ YouTube Learning #Chill Fuel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-nPM1_kSZf91ZGkcgy_95Q YouTube Learning #How to ADHD
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4pNDofN0Xh-z2bhh62g8Ow YouTube Learning #Not What You Think
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1DTYW241WD64ah5BFWn4JA YouTube Learning #Sam O'Nella Academy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNXvxXpDJXp-mZu3pFMzYHQ YouTube Learning #Our Changing Climate
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIYuMb6wdE4Z7w4hAWyb4Mg YouTube Learning #Lucas Bender
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ YouTube Learning #Primer
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5QciHe35MiA_adJZUI-TCA YouTube Learning #Happy Earth
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1cg6zkN63GA5fQc60-tbWA YouTube Learning #Average Austin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCByBOwwOU5tKddYpsrHiUUw YouTube Learning "Language & Linguistics" History #Xidnaf
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVrEHNmwOcTM85daIG6PSVg YouTube Learning #Andy Jiang
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW6TXMZ5Pq6yL6_k5NZ2e0Q YouTube Learning IT #Socratica
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPk2s5c4R_d-EUUNvFFODoA YouTube Learning #Gohar Khan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg YouTube Learning #Mark Rober
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZBdaKw97n3P9qWeP6rs_7g YouTube Learning Gaming #kkclue
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaN8DZdc8EHo5y1LsQWMiig YouTube Learning #Big Joel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeh-pJYRZTBJDXMNZeWSUVA YouTube Learning "Languages & Linguistics" #Artifexian
+https://www.youtube.com/feeds/videos.xml?channel_id=UChhMknOcAZOQXC1rh0ler-Q YouTube Learning #Lucy Edwards
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi7j9y2om2JXEXzHdDgupgw YouTube Learning #How To Activism
+https://www.youtube.com/feeds/videos.xml?channel_id=UCim0JOU5CqZG3jKhU2c_yeg YouTube Learning #Tom Lum
+https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg YouTube Learning #exurb1a
+https://www.youtube.com/feeds/videos.xml?channel_id=UCisy6taOAeLfyaCqcMQDfig YouTube Learning #Max Klymenko
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsJmZ7_YTLW3IxMCyYhLmBg YouTube Learning #Robot Banana
+---Science---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA YouTube Learning Science #NileRed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCA0mlN90EHCizvo101nbr-g YouTube Learning Science #NileRed Shorts
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGuBY43N719wlQ0e17nbKRQ YouTube Learning Science #Biology Bugbears
+https://www.youtube.com/feeds/videos.xml?channel_id=UCb2GCoLSBXjmI_Qj1vk-44g YouTube Learning Science #Amoeba Sisters
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ YouTube Learning Science #The Action Lab
+https://www.youtube.com/feeds/videos.xml?channel_id=UCA19mAJURyYHbJzhfpqhpCA YouTube Learning Science #Action Lab Shorts
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6BLQ4Po0euDOZq9gUgkWAQ YouTube Learning Science #Forrest Valkai
+---Culture---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyhOl6uRlxryALlT5yifldw YouTube Learning Culture #J.J. McCullough
+https://www.youtube.com/feeds/videos.xml?channel_id=UCn7DCb9ttrcw9h3vh9dfnVw YouTube Learning Culture #Let's ask Shogo | Your Japanese friend in Kyoto
+---History---
+https://www.youtube.com/feeds/videos.xml?channel_id=UC510QYlOlKNyhy_zdQxnGYw YouTube Learning History #Simple History
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNIuvl7V8zACPpTmmNIqP2A YouTube Learning History #OverSimplified
+https://www.youtube.com/feeds/videos.xml?channel_id=UC22BdTgxefuvUivrjesETjg YouTube Learning History #History Matters
+---Medical---
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0QHWhjbe5fGJEPz3sVb6nw YouTube Learning Medical #Doctor Mike
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc-Yj3lMj3s_n1tqcGIzQ6g YouTube Learning Medical #Dr Karan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdZmX-f3TDaRhnhM4KLM4SQ YouTube Learning Medical #Doctor ER
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkxMlA7rt-mnIc1AjbyAsPw YouTube Learning Medical #sexplanations
+
+"--Language & Linguistics--"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6k4a9x8S1hx9tJHpAV6gHw YouTube "Language & Linguistics" #Aronora
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYNyKRHBzd7UPRUtDhofUKg YouTube "Language & Linguistics" Comedy #Language Simp
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf1aAqXKmpixdCO81P9UFZg YouTube "Language & Linguistics" "Native American" #Mark Araujo-Levinson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDqVCYtJ5ezoRBP94ltrDwg YouTube "Language & Linguistics" #Fingtam Languages
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0rd3Zs_HlIWcrpp9ICwUBg YouTube "Language & Linguistics" #Everything Languages
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdZcGRaBV-VRRyU4t6Ur0mw YouTube "Language & Linguistics" #The Ling Space
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw YouTube "Language & Linguistics" #NativLang
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLNoXf8gq6vhwsrYp-l0J-Q YouTube "Language & Linguistics" #Xiaomanyc 小马在纽约
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBgWgQyEb5eTzvh4lLcuipQ YouTube "Language & Linguistics" #Wikitongues
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG98ruDeyp55THxbpBCIv3g YouTube "Language & Linguistics" #Duolingo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpJtpB6phQSmGYqXwHMoW3g YouTube "Language & Linguistics" #ILoveLanguages!
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNhX3WQEkraW3VHPyup8jkQ YouTube "Language & Linguistics" #Langfocus
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHU6Z1XBdARQqAGy3cEVjPA YouTube "Language & Linguistics" #808CJK
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgJSf-fmdfUsSlcr7A92-aA YouTube "Language & Linguistics" #David Peterson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyRPaJSRRjoaiYXo7G76bwA YouTube "Language & Linguistics" #Shane Godliman
+---French---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUaHJ0fTA-1theR8A8Polmw YouTube "Language & Linguistics" French IT #Tech & Co
+https://www.youtube.com/feeds/videos.xml?channel_id=UCj9PM_RIPuCsQhID99FPU4A YouTube "Language & Linguistics" French IT #KristenGWD
+---German---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYVo_TV0SWvXUX1neojmLpg YouTube "Language & Linguistics" German #Psych2Go DE
+---Esperanto---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLgkMgy1i9QaOzC_PM9AoRg YouTube "Language & Linguistics" Esperanto #Oliver rakontas
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzAVAyeG4RJMED0hJwmBjYQ YouTube "Language & Linguistics" Esperanto #Exploring Esperanto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIZh0d1jO85yVh7R4lcPmFw YouTube "Language & Linguistics" Esperanto #Keep It Simple Esperanto
+https://www.youtube.com/feeds/videos.xml?channel_id=UClFvfsz9sqoRjVvz3iRfD6A YouTube "Language & Linguistics" Esperanto Music #Cristina Casella
+"---toki pona---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJOh5FKisc0hUlEeWFBlD-w YouTube "Language & Linguistics" "toki pona" #jan Misali
+---Irish---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB-y_fYzu4guW_CgbZng5Zg YouTube "Language & Linguistics" Irish #Gaeilge i mo chroí
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKjtw0uBMs7MZtKPGqL86Ew YouTube "Language & Linguistics" Irish #Gaeilge le Eímear
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsJQIP7iIG55xuRxqvxNhLA YouTube "Language & Linguistics" Irish #Gaelic gamers
+---Japanese---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSX0NhNdBA-ZnEFkYFzdw4A YouTube "Language & Linguistics" Japanese #Dogen
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7ETROycjsuo49xkneiX6MA YouTube "Language & Linguistics" Japanese #NihongoDekita with Sayaka
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpf4BknRWAjb_oYIHoMDGVg YouTube "Language & Linguistics" Japanese #Matt vs Japan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwNjQzMnFu-Q8qSCD_2w2IA YouTube "Language & Linguistics" Japanese #Psych2Go Japan
+---Korean---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuh0Cu9hc1S20GR4S7Oq1WA YouTube "Language & Linguistics" Korean #Practicing Korean
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs0P4GrXEumyYn-d8ASrGlA YouTube "Language & Linguistics" Korean Animation #고누리
+
+--LGBT--
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-s7h8mfqt8D9ioA5u26DNA YouTube LGBT #Katzun's Kloset
+
+--Reviews--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKKwGLZXihufS95Sog3a35w YouTube Reviews Animation #uricksaladbar
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0M0rxSz3IF0CsSour1iWmw YouTube Reviews #Cinemassacre
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4rqhyiTs7XyuODcECvuiiQ YouTube Reviews #Scott The Woz
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOkL7q2SeGZeZuj22njMYEA YouTube Reviews #Caddicarus
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5qrE62e0455xvZ_QYfBYSA YouTube Reviews #Scarfulhu
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRBkeMoYX02w-0qVIKNkruw YouTube Reviews #PeanutButterGamer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ04pLI44c0PWRzubEV6ogA YouTube Reviews #ralphthemoviemaker
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRbOPaGDB_xOQkVM8Rnn62Q YouTube Reviews #I Hate Everything
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmvXfmJEtURCEtHNbMXfDqg YouTube Reviews #hotdiggedydemon
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGkhCo5wUyxyk2l1-kQEctA YouTube Reviews #anim8ball
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdJdEguB1F1CiYe7OEi3SBg YouTube Reviews Gaming #JonTronShow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWqr2tH3dPshNhPjV5h1xRw YouTube Reviews Gaming #Super Bunnyhop
+"query:---YMS---:tags # \"YMS\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSc16oMxxlcJSb9SXkjwMjA YouTube Reviews YMS #YourMovieSucksDOTorg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCb8mM4kuhD1zf9u7C_IS5mg YouTube YMS #YMS Highlights
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9X7A_o3y1UJKCTLEmh1png YouTube Gaming YMS #AdumPlaze
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBslGutIfhIBS25ELdytFqw YouTube Gaming YMS #AdumPlazethroughs
+
+--Animation--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzfyYtgvkx5mLy8nlLlayYg YouTube Animation #Vivziepop
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1fjSSxPEEHb7WqAdd6xChQ YouTube Animation #Hannah Daigle
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUzzFuijK8WH4zdbVu33BvA YouTube Animation #PilotRedSun
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5ZYmN3WCpRv3WGUB6PXCkw YouTube Animation #Xploshi
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd0zIZlbgvEifm_hd3FwlBQ YouTube Animation #vewn
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4m1l1G3tpb4C1EiljBLI3A YouTube Animation #Joe
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaGev0JRG7Dp5c_R4ROADLw YouTube Animation #David Firth
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0XqDEV-VueSv5fszMDCzuw YouTube Animation #I can't sleep
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8RBLJdSpxSVWDc_bGKmdQQ YouTube Animation #Piemations
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZfl3VUKKGhO1pTyKD88q-A YouTube Animation #KittenSneeze
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSRp5VNnG16gd80vNZp4neA YouTube Animation #Neoly
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtAdCmx9gLLqfTlTQCeW21g YouTube Animation #kakaiya
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRei8TBpt4r0WPZ7MkiKmVg YouTube Animation #Berd
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkDtCKtPKlsg-gJO_m5D0mQ YouTube Animation #Telepurte
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8YdAtGAD5t_Sz-QQOx-r-Q YouTube Animation #Gray Scaling
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEOLAvtFgGa71CYvTR4qL3g YouTube Animation #CHURURU MoeStudio
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH6vXjt-BA7QHl0KnfL-7RQ YouTube Animation #Simon's Cat
+https://www.youtube.com/feeds/videos.xml?channel_id=UCihBZH2m7yD5kj-wH_2na-Q YouTube Animation #brombo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCT1Mq1MaOyXa1qHXPT5dUAw YouTube Animation #Shigloo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCftVfwkXA6LNxiHuDPZgdQQ YouTube Animation #The Doodle Demon
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgtuYclR8qYhXDbKI9gi1jQ YouTube Animation #DoodleDemon
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkl-o3rGX1EKVKnc5vsRzKg YouTube Animation #faxjam
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAPwJEqyypq9q895BD6DsqQ YouTube Animation Music #aimkid
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNdNkUfhFfzBtKRU_5QgUvw YouTube Animation #kekeflipnote
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYh4SJwo9vWkfZwc0w4b4ng YouTube Animation #speedoru
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDQ9rpgUp0Bro6erzaAFWrw YouTube Animation #FlamingPickle
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF_T35CJxKQjFXygT6Z7jjA YouTube Animation #Raegasm
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-uZVnE4p_52zXbH34S4pcA YouTube Animation #CRD Сreative
+https://www.youtube.com/feeds/videos.xml?channel_id=UC91V6D3nkhP89wUb9f_h17g YouTube Animation #MeatCanyon
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO7fujFV_MuxTM0TuZrnE6Q YouTube Animation #Felix Colgrave
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYF1kiTFCcYPqGTqXKt3JJg YouTube Animation #Papa Meat
+https://www.youtube.com/feeds/videos.xml?channel_id=UCr1fdFXztwacnJ206hMgG7w YouTube Animation #Cas van de Pol
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGA9-VO0z4eELmVtsJEgyQQ YouTube Animation #Shoocharu
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEFY_ZrVOs4-XcKQx-cZiJw YouTube Animation #Rigamarole
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCCPJDSY5ygS1mq5JaceXbw YouTube Animation #SmoochToons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSXj8m71wdzPeVKntbf4XvQ YouTube Animation #PoorDesign
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFdk_ie3G-Q7o4LDPdygoKA YouTube Animation #tithinian
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQ8_wyyb428UrtfiE1xOq5g YouTube Animation #Oliver Morgan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV3iHQsE2h3CH-LehgPRkMg YouTube Animation #FilmCow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfP91yoZ1OIm8j9Tah8MW5g YouTube Animation #FilmCow Extra
+https://www.youtube.com/feeds/videos.xml?channel_id=UChoxc58JVjk_HVVWdtYxsjg YouTube Animation #Jake Lava
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzCU679Kvyd_AdNzPdSn1UA YouTube Animation #Jake Lava 2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyvf7zhuTssC6L1IKn4QgPw YouTube Animation #David Scott Heath
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1zHDBLY15rxcsGsnrtp0nw YouTube Animation #Iwana
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeQwCalZK1scamopwHt9UWw YouTube Animation #람다람 RAMDARAM
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaaZFxjlHI3T_I-uFbldIGA YouTube Animation #소맥거핀
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpclRlEJ2oh6JDEJy68UjKA YouTube Animation #an0nymooose
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNAY-WKspw1i3yIIETofRYw YouTube Animation #an0nymooose2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpGk56cJDZcVqIxZatX7nbQ YouTube Animation #からめる
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwgmD3iYb49hnQMAi9WgmdA YouTube Animation #からめる動画保管庫
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPq7YcFSdgsMCVSBKz9De0A YouTube Animation #ZylerWorries4U
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkHPqmBsJkws8HbPP1cd_NA YouTube Animation #Michael Cusack
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV5wuGZmg_FGQp25uzKKDaw YouTube Animation #OneyNG
+https://www.youtube.com/feeds/videos.xml?channel_id=UC--BMyA2X4a9PGAo3lTuopg YouTube Animation #psychicpebbles
+https://www.youtube.com/feeds/videos.xml?channel_id=UCte3qx7A5OWTPSnNjV4oheg YouTube Animation #Katzun
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSCF9UABxj49kg2SEXUUZAw YouTube Animation #don hertzfeldt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXWo3GIjxGfuS1Kt7qIemTQ YouTube Animation #andywilson92
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5LWAYlWsMdjYLOx1s_np9g YouTube Animation #CuteC3
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLyd2UV8EQQEnMvpJZ5K5uA YouTube Animation #Julian Marcel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnl3FERKU_V0yEmUWte054Q YouTube Animation #SamOnSamOff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW7atRnPJN4ezAg33C-49tA YouTube Animation #MatterBoar ANIMATIONS
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDB-Sy9lw2R-muVoK8nE_BQ YouTube Animation #Sick Animation
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGwu0nbY2wSkW8N-cghnLpA YouTube Animation #Jaiden Animations
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG1hOjeSBXK012Xkc5-993g YouTube Animation #Knut Animations
+https://www.youtube.com/feeds/videos.xml?channel_id=UCE9B30-PwTtnL7v9mA6us_Q YouTube Animation #SandBagAnimator
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyADewhe0dOYxbLnm3frTIg YouTube Animation #RickToons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyNPUWYdxjqhcGQv8OhdqSw YouTube Animation #Jeffrey SHOW
+https://www.youtube.com/feeds/videos.xml?channel_id=UCynvbIL1OmD2KFjnUt4OQjQ YouTube Animation #Aaron Schmit
+https://www.youtube.com/feeds/videos.xml?channel_id=UCytypjVVbVgy-pjTJzbN_Lg YouTube Animation #SettMetabolik
+https://www.youtube.com/feeds/videos.xml?channel_id=UCu6ZPluA1JH4H4LS_AIHT9A YouTube Animation #TootyMcNooty
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvPKIMxSrNu5bNdKQRD9ifw YouTube Animation #sblga
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvmv0vfG_MigaHbvuH4Tx5A YouTube Animation #Kati Knitt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwdVtL3V9Nb9MyphOiiposQ YouTube Animation #BM Cartoons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqvpFAiRcY96CjKwiGHgwpg YouTube Animation #Gooseworx
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkpnHueBiSqZ1kmIXxAdE6w YouTube Animation #Patrick Smith
+https://www.youtube.com/feeds/videos.xml?channel_id=UCosWOTQyKE0tN1qE4Ah80Og YouTube Animation #Alaine Baybayan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpUgLrAZit8iDqdSo_yffDg YouTube Animation #Arthur Effgus
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjUcbqrP3JnuUKdybiJoJmQ YouTube Animation #Miles John
+https://www.youtube.com/feeds/videos.xml?channel_id=UCk8cfDW244sbkf7AVhB2W1A YouTube Animation #Chris Hallbeck
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkcaZ9OzSIIOGQw-ge4Ontw YouTube Animation #DanDaMiniFig
+https://www.youtube.com/feeds/videos.xml?channel_id=UCELTPsu1qc9tqf0-VOLQbLA YouTube Animation #Noah Cheruk
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPwkQyVko5R52K3oRazwsVA YouTube Animation #Ergomancy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKxs4tqG0EYSuootobLm-gg YouTube Animation #Freddie 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLAxgMOAgHyJ7-okxSmiY4w YouTube Animation #Hagen Toons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL_DY6n_2w96u0MB82taNPg YouTube Animation #João Pereira 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNqEKy6csRlAJ7fBL2CtXfg YouTube Animation #DoogtoonsCriações
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQ8Nk1VgyMgM7Mx3sX8WhPw YouTube Animation #Pringus McDingus
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXRyXeR2PrS2NXFVh9LvetQ YouTube Animation #Brandon Turner
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_MAhCiLQmub3CU0AHSP91A YouTube Animation #iamprikle
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgb_W03rSNRau2BBr1wUDDQ YouTube Animation #Penniless Ragamuffin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgcALy35WGT4bgDp_F4AbKQ YouTube Animation #Diives
+https://www.youtube.com/feeds/videos.xml?channel_id=UCh00AZLoV0Wd72cspfp-pSQ YouTube Animation #Bloody cat
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_0PR68fn8hGQZEJa9p3Lrg YouTube Animation #Octopie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZESvFbPmlmF9rnT4Ke1uKQ YouTube Animation #Mike Salcedo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZTc2bbF64cj_r0btHgaakw YouTube Animation #Lazy Square
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWdKbkSUPZZJ2lUSUh4xnfQ YouTube Animation #JabaToons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQEXGI1msO1vtK9gv9z_sSw YouTube Animation #El Cid
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1kbaTAmnAlrHbxWXFyStw YouTube Animation #Kinchi
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVOASPSXgoRXpn4leFm-RGg YouTube Animation #AfroNinja360
+https://www.youtube.com/feeds/videos.xml?channel_id=UCE-OItvRBd5eb_zwf22F79w YouTube Animation #NippyYippy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCE6ItaxiKS3296-ZXcCkFhw YouTube Animation #ANDY LAND
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAKCBiX-whmiLMyCRSaXJVg YouTube Animation #HorseFolder
+https://www.youtube.com/feeds/videos.xml?channel_id=UCChWvNbRQYQ5fj1Nj3RQu8Q YouTube Animation #surreal entertainment
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1wJUqhYUYkXj7c4rVC4HZA YouTube Animation #Racc Attacc
+https://www.youtube.com/feeds/videos.xml?channel_id=UC28o1wgZmWTROz1uu8GbImw YouTube Animation #sodikken
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2CmFx99gzfInrT8Jowm01w YouTube Animation #2ManySnacks
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2d0Cp7XABGb3zpomS0d-WA YouTube Animation #Doobus Goobus
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3rKyqx3PiaMGkq8w4q1QWw YouTube Animation #DeadlyComics
+https://www.youtube.com/feeds/videos.xml?channel_id=UCchLcVZ29DJF0gX6kJAaZuA YouTube Animation #Len exists
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4VJLP4Tmisao9uyWPMw21g YouTube Animation #MagiBauble
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5M_e5IsfkxPsi__4K5kpjg YouTube Animation #NayRob
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5OxO6isP-65pPOvgaoCmgA YouTube Animation #Zealous Creative
+https://www.youtube.com/feeds/videos.xml?channel_id=UC64hJxa5uM3P_KusfYc-CWw YouTube Animation #Paul ter Voorde
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6POBZgx7akzckBXSroLZnw YouTube Animation #grind3h
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1Xz9RlIhzX_Z0dCvTZ57lg YouTube Animation #UnregisteredHyperman
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4cRiYSyYzw-rqFnGSTmw6w YouTube Animation Learning #Pixi-Gags
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWXCrItCF6ZgXrdozUS-Idw YouTube Animation Comedy #ExplosmEntertainment
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjiR9Stng9bDhVqe-9cXKZA YouTube Animation #HarrisonDrawsCars
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwxqq8XB-u1GGCV31KUKhQA YouTube Animation #Keetz
+"query:---Animation Memes---:tags # \"Animation Memes\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdARcqAEmGmU9ppAx8KHiVQ YouTube Animation "Animation Memes" #Typh
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnaTT4d8RBoP9-PFauSh7dQ YouTube Animation "Animation Memes" #moneycatZ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCh0pg3KGTFyZnPeb9S7m0kg YouTube Animation "Animation Memes" #Dusty Frosty
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO86mBfqBTsfEUnPvJ4s1bg YouTube Animation "Animation Memes" #sashley
+https://www.youtube.com/feeds/videos.xml?channel_id=UC35UExRBy6pkawgvClaws2Q YouTube Animation "Animation Memes" #ellannasx
+https://www.youtube.com/feeds/videos.xml?channel_id=UChYG-vh9amksS4CDT-zgA0w YouTube Animation "Animation Memes" #ariannx
+https://www.youtube.com/feeds/videos.xml?channel_id=UC855Jc4CGO46Ye2iUjtIRLQ YouTube Animation "Animation Memes" #Crydiaa
+https://www.youtube.com/feeds/videos.xml?channel_id=UClM2EJGgeGDkHdaCXdojJgg YouTube Animation "Animation Memes" #Dexechii
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_9PkaJHT25LwQ6HLydPavQ YouTube Animation "Animation Memes" #UnknownSpy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAIpmqQI9uU2xtWY4Yc79iw YouTube Animation "Animation Memes" #crispyyflake
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8C1Ttih8gz6qDrcPGuqCRw YouTube Animation "Animation Memes" #Shiruxii
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxu3I7GwRdAxmv444n7gvnw YouTube Animation "Animation Memes" #Ozomilk
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkRu16aZb_t7hjIxL5eXmFQ YouTube Animation "Animation Memes" #Skaroy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaf0cC8LoX7-VaShCz02Ovw YouTube Animation "Animation Memes" #Little Ruby Rue
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFLlz5_bxaijqvoTl-N3KAg YouTube Animation "Animation Memes" #TWISTED-DOCTOR
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5vK_xyMGgFmtOvS_DVcLMQ YouTube Animation "Animation Memes" #Nirami
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtk0HQqePBskJtS3rn_uzKg YouTube Animation "Animation Memes" #chinjireta
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkZsgMvdMiwyaelGlqgPRlw YouTube Animation "Animation Memes" #Seelmaru
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkqPtYCU6Qc9MZ6G0z3SPyg YouTube Animation "Animation Memes" #sir fluff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkavwSaAE7xmVQcU9I6yvKw YouTube Animation "Animation Memes" #daily fluff
+https://www.youtube.com/feeds/videos.xml?channel_id=UCx5HQPjpr3JAeBFKkar8E0A YouTube Animation "Animation Memes" #kittydog
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqtfwmXtY3m1DK9HpNmFQRw YouTube Animation "Animation Memes" #candiewrapper
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAYbVeYIGqUVYUhtYelRg0w YouTube Animation "Animation Memes" #kasscabel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC13HRzLxM4EJSmTAsOYOAUA YouTube Animation "Animation Memes" #Monet Lilli
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWnI_KgNrueKWGfjk8yQaMQ YouTube Animation "Animation Memes" #Crispiezz
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVLKU21eELk_dBUKhvYD5-A YouTube Animation "Animation Memes" #WagnerMutt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtweSAEAMmIWwJxGEQdgpPA YouTube Animation "Animation Memes" #Stariaat
+https://www.youtube.com/feeds/videos.xml?channel_id=UCET6ynhw0Q-isyyeI2TSXhA YouTube Animation "Animation Memes" #yeagar
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXms31yK2BFC-Cc59Y9sSQw YouTube Animation "Animation Memes" #GhostfaceNikol
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8tZXaYVv7HQ6pDe_HacZRA YouTube Animation "Animation Memes" #Toko새우
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuiZ35b7tEHSvq7I8B0G_Dw YouTube Animation "Animation Memes" #3죄악
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOzsjZgCuGrs54FGmUXYNFQ YouTube Animation "Animation Memes" #Meowmi Goth
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf6IcfoMtXrZ0OQ4D6vZWpA YouTube Animation "Animation Memes" #Lil Animator
+https://www.youtube.com/feeds/videos.xml?channel_id=UCESIMQDTUAzQjNu9zMPtI2g YouTube Animation "Animation Memes" #LUCKIZIY
+https://www.youtube.com/feeds/videos.xml?channel_id=UC48mie8QtXpQ2fpcNIUrEDA YouTube Animation "Animation Memes" #Mortal
+https://www.youtube.com/feeds/videos.xml?channel_id=UCES7DxUU8RaFSBlwZ7K8XlQ YouTube Animation "Animation Memes" #sequisix
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEx_R5jlY5CmxAW_kckvgoA YouTube Animation "Animation Memes" #peachiie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpDEI7BskPH7xlo6RBWLdVw YouTube Animation "Animation Memes" #Amoreaska
+https://www.youtube.com/feeds/videos.xml?channel_id=UCklRBN-9AGDuT__2_GwtSew YouTube Animation "Animation Memes" #Radd
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgR_wN_tAhdy37Xxv3Lo62Q YouTube Animation "Animation Memes" #lilix4404
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcpvE-WwI9WknPCXJB87-yg YouTube Animation "Animation Memes" #Fennixyu
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbQZSmRJnSQx-LdosgeSF5A YouTube Animation "Animation Memes" #oh no
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_6-mJV5mrjxW7iMA6bXJZQ YouTube Animation "Animation Memes" #Roxxie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYlzVcZOfVPS99bSXKSZKDQ YouTube Animation "Animation Memes" #dopperi
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ3urczvtQWT-KKRe7iYRZw YouTube Animation "Animation Memes" #Carmafeit
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVjipJjyZ-TQsQi8l_HjZcA YouTube Animation "Animation Memes" #Lucabeez
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVOaSFVJCEey3nCoPqPZxXA YouTube Animation "Animation Memes" #CookiePawz
+https://www.youtube.com/feeds/videos.xml?channel_id=UCroH518mksg0B7fk211Lz5A YouTube Animation "Animation Memes" #DJayeRemixTheFox
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxIkCaXx2o4YZsbIlJkcn1g YouTube Animation "Animation Memes" #FrydChikn420
+---Eddsworld---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSS6UvWXW8OZD9wpIVkD0YA YouTube Animation Eddsworld #Eddsworld
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCcG2GsjiItnIxKy238ddIw YouTube Animation Eddsworld #Eddsworld Extra
+https://www.youtube.com/feeds/videos.xml?channel_id=UCp39UuGJxZw-mfsoRkJXsMg YouTube Animation Eddsworld #eddomation
+
+--Gaming--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMVcXc4UykffXNSKqJEdCwA YouTube Gaming #Jokeypokey
+https://www.youtube.com/feeds/videos.xml?channel_id=UClyGlKOhDUooPJFy4v_mqPg YouTube Gaming #DougDoug
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5sc1ysFs7RfjjEFMuQ3ZQw YouTube Gaming #DougDougDoug
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO1ITICo8MLHGAXR1uzFwjA YouTube Gaming #OneyPlays
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-tzBN46zn34fxBIXcGoprA YouTube Gaming #Otto Heckel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsWov9_rp17krExRC1o-SLA YouTube Gaming #ChrrismYT
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPPc2PdtA7gCMbjYp_i_TKA YouTube Gaming #SuperMega
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGeIjGngCkErevSNHdZYD5Q YouTube Gaming #Storymode
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwQwfRJYQAHlzuQOdZUCI3w YouTube Gaming #ClassicsOfGame
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBi17SX4wcukjJDZSHPn4ZA YouTube Gaming #DingDongVG
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgec4YJy7D-Nk0lYbfHinVw YouTube Gaming #DingDongVG Streams
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMyjM9bXqk7Fa-uCaWv3KuA YouTube Gaming #Milk Man Steve
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPoSHO-OOTb0rqZr6bJlMkQ YouTube Gaming #Gaming Garbage
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRZ5-H-PV_2jsj3JsB9uU2A YouTube Gaming #BlazingVictini
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_cATVTcvSe-Nj52cXxzgWg YouTube Gaming #Ayee
+---COD---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjHsfa4XZ-4UONo_r_2O7rw YouTube COD Gaming #sm²
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUjKcfzKeI_wfYAZPDI06EA YouTube COD Gaming #Marsh
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBoPMDqg57i0dPLu3hrN9Hw YouTube COD Gaming #Chrrism
+https://www.youtube.com/feeds/videos.xml?channel_id=UC15nwNGdEVUClJf8O0Qu87g YouTube COD Gaming #The Frosty 1
+https://www.youtube.com/feeds/videos.xml?channel_id=UCicMjjzTlPom01vKqb-7XbQ YouTube COD Gaming #Stanley557
+https://www.youtube.com/feeds/videos.xml?channel_id=UCI1W7DdUDXEONr2dqQjka7w YouTube COD Gaming #theGODZILLA150
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNAHvJkauk59GouObL0LdQQ YouTube COD Gaming #RAPID_FUSIONZ
+"query:----MerkMusic----:tags # \"MerkMusic\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMWHhRY7Iuxwm1hF1Fv-btw YouTube COD Gaming MerkMusic #MerkMusic
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBUsXJkXkLYTgNuP8NLoj4w YouTube COD Gaming MerkMusic #Nerd Plays
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5gsQbt6rP-qXkS7b7H32_g YouTube COD Gaming MerkMusic #Musick
+
+--Comedy--
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8Q7XEy86Q7T-3kNpNjYgwA YouTube Comedy #Incognito Mode
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHySPgM6d4vni_vB6dglLQQ YouTube Comedy #Live Laugh Love
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzb-6smlTg5UPirLdsdQ_cQ YouTube Comedy #Foil Arms and Hog
+https://www.youtube.com/feeds/videos.xml?channel_id=UCU98JVxJf-VQXbPQPNbkbQQ YouTube Comedy #Meditations for the anxious mind
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyWDmyZRjrGHeKF-ofFsT5Q YouTube Comedy #Internet Comment Etiquette with Erik
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_mneEC0wc29EGGmIsN_xLA YouTube Comedy #Aunty Donna
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2AQkHXNVA-w9FA1m9VqO7A YouTube Comedy #lasagnacat
+https://www.youtube.com/feeds/videos.xml?channel_id=UCz7iJPVTBGX6DNO1RNI2Fcg YouTube Comedy #GradeAUnderA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPipGON7E7TV4vw3ByW031g YouTube Comedy #GradeBUnderB
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpjhI-0FBMao7jSuafXuEjA YouTube Comedy #Jack and Dean
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnLxFpGiCi-u3RLx9uF8bOg YouTube Comedy #Russell Howard
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9MU35bTvG9t06yf70hcGqQ YouTube Comedy #steveioe
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLbidg2ZT49dWrxDkwNKr0g YouTube Comedy #Doc Schmidt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4BihkZ3GEGOZq2X0BvBbIw YouTube Comedy #Strain Of Thought
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOIdrWi76lzuNg4lKRWYnhQ YouTube Comedy #ManManBoyBoyMan
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc-2O0_cKAWGQEuHqHHh3GA YouTube Comedy #JackHoward
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi38HMIvRpGgMJ0Tlm1WYdw YouTube Comedy #Sassy Justice
+https://www.youtube.com/feeds/videos.xml?channel_id=UClGxMg3LjbPZ-HDL-77SMiQ YouTube Comedy #Elliot Gough
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmxYHPY9GYYyK81M0LjDG5w YouTube Comedy #supaNOOBbros
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQTIcTivMXJClXIKdC3sWAQ YouTube Comedy #Psychedelic Element
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq5btGtqdn4CpvU0xTXaelA YouTube Comedy #Alasdair Beckett-King
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrDAt04Uan9eAiu0E9RtT4A YouTube Comedy #Calvin & Habs
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNdFtR-glRU4MbKGtgEqpeQ YouTube Comedy #Justin Kuritzkes
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsdrJvXcJZkYG5ttD3ljokA YouTube Comedy #Nothin' But Lag
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWZ3HFiJkxG1K8C4HVnyBvQ YouTube Comedy #Vic Berger
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8-yAw3bMQuyk1118VFa5LA YouTube Comedy #MoBrosStudios
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-IQMFo1uXyXazYUG2d6Q YouTube Comedy #Matt Lobster
+---Tomska---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOYWgypDktXdb-HfZnSMK6A YouTube Comedy Tomska #TomSka
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3tMH8u6yG3mSxi-qpfmpkA YouTube Comedy Tomska #TomSka & Friends
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi5ut8TzSdYut6SqA1FgNHA YouTube Comedy Tomska #TomSkaPreviews
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPHQjjDuSs5xtmy-tUu7bmA YouTube Comedy Tomska #thetrollska
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQE3I4O17LT852J9RTS2ibg YouTube Comedy Tomska #Pwn01
+
+--Music--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Wpi10SyZkzVeS7vzB5Lw YouTube Music #Ichika Nito
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyDZai57BfE_N0SaBkKQyXg YouTube Music #Rob Scallon
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVUD8FVyHrVRssLcEK0SWhA YouTube Music #RobScallon2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoNRSwYHJdy-yV1b82ZdHfQ YouTube Music #SethEverman
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAYKj_peyESIMDp5LtHlH2A YouTube Music IT "Linux & FLOSS" #unfa🇺🇦
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGY2w6hIZWwyxasBUN7wbaQ YouTube Music #Hot Dad
+https://www.youtube.com/feeds/videos.xml?channel_id=UCU85cqdRQh8HBpk94vbcS_g YouTube Music #ELECTRONICOS FANTASTICOS!
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq6aw03lNILzV96UvEAASfQ YouTube Music Animation #bill wurtz
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjU0858MnFV76O_rOxvxbVw YouTube Music #CreepingMetal
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZU86cQ3D96DKkTf9B0GG_A YouTube Music #Kye Smith
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPKgIhTC3BdkAwMw6s-GEug YouTube Music #TheDooo
+https://www.youtube.com/feeds/videos.xml?channel_id=UC98tcedR6gULv8_b70WJKyw YouTube Music #Frog Leap Studios
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8-6D57Us7J6JgGfiAzVl5A YouTube Music #Lubalin
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5gsQbt6rP-qXkS7b7H32_g YouTube Music #Musick
+https://www.youtube.com/feeds/videos.xml?channel_id=UCx5rjjQB5wQkMUx8UAN_aRg YouTube Music #THE WACKIDS
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIm5dgSJPmVBkz7CKuGtwFQ YouTube Music #Tongo Oficial
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_-IQKXHy1zFFwywJSMU2xw YouTube Music #MARY N
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaKPJsR85x5WknL8IFx-ftw YouTube Music #Chetreo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbJnwLm_HX3FPlLWctTm1SA YouTube Music #Insane Cherry
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdkkQvJoB0kGgYHCYwSkdww YouTube Music Animation #Louie Zong
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe_ijwgvhtHQwQ55vsXDY8w YouTube Music Animation #JackStauber
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXgxNzAgZ1GExhTW4X1mUrg YouTube Music #Marc Rebillet
+https://www.youtube.com/feeds/videos.xml?channel_id=UC09bS9pL3I0hCiQo-B-7tyQ YouTube Music #Anna Sentina
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF6ISTtMvsjaMbthPEVMSBA YouTube Music #maromaro1337
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4FyiI_1mWI2AtLS5ChdPQ YouTube Music #Boyinaband
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSE6yilNScIz1SLTNQvrXMw YouTube Music #Vinheteiro
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSiMTQtZkgJz8-kUxpStMXg YouTube Music #Aaron Paulsen
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJI8EfQQisxbnCGcCJ8iztQ YouTube Music #Kirt ConnorTwenty
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8affupLOlkEtH6QZGY_9Lg YouTube Music #Michalina Malisz
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7U2Fn-lJz4lvIyTEFJ8J7A YouTube Music #Kristina Schiano
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3mY2SKYhPjqImtBBXsR6_Q YouTube Music #MayTree
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgFvT6pUq9HLOvKBYERzXSQ YouTube Music #Davie504
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ_RSsIzee-p7TqnuFih3Q YouTube Music #KestrelTapes
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnvzajWXCAOAq_Y1jNLFQXg YouTube Music #Joe Porter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrfu-6zSLqPK-H_eFEZb9QA YouTube Music #Billy Cobb
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm6r_b2K5jn1JGkwDcwJXrQ YouTube Music #Anthony Vincent
+"---Music Releases---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAONocU936ZbWISBS6vUewg YouTube Music "Music Releases" #chloe moriondo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJTs-KheOMNstaGrDL4K55Q YouTube Music "Music Releases" #Glass Animals
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzCTW3k3_ItdqxdVaeXn2IA YouTube Music "Music Releases" #Rare Americans
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFLnwFhuJeBSCjIJewxSqKw YouTube Music "Music Releases" #BROCKHAMPTON
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpLqtJdfhVv58cPFhRzWJlg YouTube Music "Music Releases" #cavetown
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOyVV2Mry8B2wlHTPtjP1WA YouTube Music "Music Releases" #Pretty Vicious
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_B8B0n6SawyhXtfvb9orWA YouTube Music "Music Releases" #The Monk Kings
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRCR62tYhqWV_q28O6QzEGw YouTube Music "Music Releases" #Abeer Khandker
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR6eaz5YWaylkk-AmbBfOpg YouTube Music "Music Releases" "toki pona" #jan Misali - Topic
+https://www.youtube.com/feeds/videos.xml?channel_id=UCobJseYd3Z4Kd9igg8PWXpQ YouTube Music "Music Releases" #Matt Watson
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCVEW2cgcBfUccth8YW9EUg YouTube Music "Music Releases" #Dios
+
+--Scambaiting--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA YouTube Scambaiting #Atomic Shrimp
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBNG0osIBAprVcZZ3ic84vw YouTube Scambaiting #Jim Browning
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm22FAXZMw1BaWeFszZxUKw YouTube Scambaiting #Kitboga
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWpQycBnpPxyWY6bBhr4Rbw YouTube Scambaiting #More Kitboga
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLZxPVkEvf9XuifStuHK_gA YouTube Scambaiting #Lewis's Tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrBZYWrikliO6EPZKM7KxVQ YouTube Scambaiting #Toao.net
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4nbIeL4SVgoy6SXcxtWcHg YouTube Scambaiting #SkeletonSyskey
+https://www.youtube.com/feeds/videos.xml?channel_id=UCu0han9M-bdOvEEYKSXnzdw YouTube Scambaiting #Rinoa Poison
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYuvJHnwEeNIOWjpz2mwlhQ YouTube Scambaiting #Rinoa Poison - Shorts
+https://www.youtube.com/feeds/videos.xml?channel_id=UCC9EjyMN_hx5NdctLBx5X7w YouTube Scambaiting #Scammer Payback
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0uJKUXiU5T41Fzawy5H6mw YouTube Scambaiting #ScammerRevolts
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKe5oaHwJG54MugJgc1uOdg YouTube Scambaiting #Scammer Hotline
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGeMIA7lZqFR1Y2N25qLaRQ YouTube Scambaiting #Scammers House
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxzXRl9vxhPhyYITOlPW9dg YouTube Scambaiting #Deeveeaar
+https://www.youtube.com/feeds/videos.xml?channel_id=UC67Sj_lLFxRFbgWICnTakKA YouTube Scambaiting #Unscammed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnNlJNSRxa3PF8XrKHOEPug YouTube Scambaiting #The Hoax Hotel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_b1bYSup-dHfwIoIXP0zPQ YouTube Scambaiting #Malcolm Merlyn
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqTQnJ_Wk0PAzWCOHMfefDQ YouTube Scambaiting #NeeP
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHIkgrYA-nALAKuE9Bob7bg YouTube Scambaiting #NeeP Backup
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdFypR5fbIFjaA5csQpgVQg YouTube Scambaiting #IRS I reck scammers
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_0osV_nf2b0sIbm4Wiw4RQ YouTube Scambaiting #IRLrosie
+https://www.youtube.com/feeds/videos.xml?channel_id=UCthfE8nvrd5whNpWZDa9L9A YouTube Scambaiting #Alogical
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTX-RT-q5rgr-AX25jNkLDw YouTube Scambaiting #wenja92 Scam Detective
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV_w9-UYod7bPbazMW7Zp4A YouTube Scambaiting #Scambaiter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGCqGI3f2WSDnfRjrD1Cj_Q YouTube Scambaiting #Nicole Mayhem
+
+"--Lock Picking--"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm9K6rby98W8JigLoZOh6FQ YouTube "Lock Picking" #LockPickingLawyer
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBGVa07P4ofJ8HaCzAtAB4A YouTube "Lock Picking" #McNallyOfficial
+https://www.youtube.com/feeds/videos.xml?channel_id=UCp1orOGJwZvjLAvckyxC4Nw YouTube "Lock Picking" #BosnianBill
+
+--Archive--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcDEOL_cXO1yAesOt7v67Yg YouTube Archive #Cultural Equity
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIKdKc2XH-vZhKNOfC8Orqg YouTube Archive #The Global Jukebox
+https://www.youtube.com/feeds/videos.xml?channel_id=UCInpAOuv6nqdf6EheU4Wfjg YouTube Archive #Alan Lomax Archive
+
+--Other--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgHGPOxUMfWsiy1ZyR-tLVw YouTube Other "Language & Linguistics" #Livakivi
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5aLwbQHgvK3Q8UvEs-UL5g YouTube Other "Language & Linguistics" #Budget Livakivi
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgl_IUU97wYTfzcYTUgROxw YouTube Other #Tog Hackerspace - Dublin Ireland
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD26FNVb2uBtlJvXQ2XJ46g YouTube Other "Native American" #Indigenous Americans
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ_vYNXoLiKz8vx0UDjPSQg YouTube Other #Clogher Road Community College
+
+--Inactive--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRKz4els9VwQws2sdhoJTMg YouTube Inactive #LobsCast
+https://www.youtube.com/feeds/videos.xml?channel_id=UC87nqQTY5jhuplufRs0_wlA YouTube Inactive #Wan Wan Games
